@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <classdata
-xmlns:sumiaya="https://sumiaya.com/mynamespace"
- xmlns:pervaizi="https://pi.com/mynamespace"
-  xmlns:aiman="https://aiman.com/mynamespace">
+xmlns:sumiaya="http://sumiaya.com/mynamespace"
+ xmlns:pervaizi="http://pi.com/mynamespace"
+  xmlns:aiman="http://aiman.com/mynamespace">
 <student id="1"    >
 <sumiaya:name>Sumiaya Aiman</sumiaya:name>
 <sumiaya:batch>2408b1</sumiaya:batch>
