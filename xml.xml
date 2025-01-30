@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<classdata>
-<student id="1">
-<name>Sumiaya Aiman</name>
-<batch>2408b1</batch>
-<email>sumiayaaiman@gmail.com</email>
+<classdata
+xmlns:sumiaya="https://sumiaya.com/mynamespace"
+ xmlns:pervaizi="https://pi.com/mynamespace"
+  xmlns:aiman="https://aiman.com/mynamespace">
+<student id="1"    >
+<sumiaya:name>Sumiaya Aiman</sumiaya:name>
+<sumiaya:batch>2408b1</sumiaya:batch>
+<sumiaya:email>sumiayaaiman@gmail.com</sumiaya:email>
 
 </student>
 
 <student id="2">
-<name>Pervaiz Iqbal</name>
-<batch>2408b1</batch>
-<email>piqbal@gmail.com</email>
+<pervaizi:name>Pervaiz Iqbal</pervaizi:name>
+<pervaizi:batch>2408b1</pervaizi:batch>
+<pervaizi:email>piqbal@gmail.com</pervaizi:email>
 
 </student>
 
 <student id="3">
-<name>Aiman</name>
-<batch>2408b3</batch>
-<email>aiman@gmail.com</email>
+<aiman:name>Aiman</aiman:name>
+<aiman:batch>2408b3</aiman:batch>
+<aiman:email>aiman@gmail.com</aiman:email>
 
 </student>
 
