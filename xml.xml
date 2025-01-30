@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <classdata>
-user
+<student id="1">
+<name>Sumiaya Aiman</name>
+<batch>2408b1</batch>
+<email>sumiayaaiman@gmail.com</email>
+
+</student>
+
+<student id="2">
+<name>Pervaiz Iqbal</name>
+<batch>2408b1</batch>
+<email>piqbal@gmail.com</email>
+
+</student>
+
+<student id="3">
+<name>Aiman</name>
+<batch>2408b3</batch>
+<email>aiman@gmail.com</email>
+
+</student>
+
 </classdata>
